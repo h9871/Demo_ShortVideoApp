@@ -2,6 +2,7 @@
 [SwiftUI] 짧은 동영상 앱 데모
 
 [Views]
+
 ContentView 
 - 시작 화면 (HomeView로 대체 가능)
 
@@ -24,9 +25,11 @@ TopMenuView
 - 기능 없음
 
 [URL]
+
 해당 URL의 데모
 https://youtu.be/XRRS3xJnKBQ
 
 [동영상 출처]
+
 픽사베이 동영상
 https://pixabay.com/videos/
